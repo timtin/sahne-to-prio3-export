@@ -8,7 +8,7 @@ Dieses kleine Skript/Bookmarklet ermöglicht es, eine veröffentlichte Prio-List
 ## 2. 🗃️ Neues Lesezeichen im Browser erstellen
 - Name/Titel: Beliebig (z.B. "Sahne Prio Export")
 - URL: Hier den Code aus der Zwischenablage einfügen.
-- 
+
 ## 3. 📤 Liste exportieren
 Wenn das Bookarklet auf angeklickt wird, während eine öffentliche Sahne-Prio-Liste zu sehen ist, wird die Liste im CSV-Format direkt im Browser angezeigt und kann kopiert werden.
 
